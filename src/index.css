@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+@import "tailwindcss";
+
+body {
+    font-family: "PT Serif", serif;
+    background: linear-gradient(to right, red, yellow);
+}
